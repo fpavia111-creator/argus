@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.fpavia111-creator/argus",
+  "description": "Argus of MCP: Supply-chain security scanner for MCP servers and agent skills (Claude, Cursor, VS Cod",
+  "version": "0.2.0",
+  "repository": {
+    "url": "https://github.com/fpavia111-creator/argus",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@kurtfrancisco/argus",
+      "version": "0.2.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "packageArguments": [
+        {
+          "type": "positional",
+          "value": "mcp"
+        }
+      ]
+    }
+  ]
+}
