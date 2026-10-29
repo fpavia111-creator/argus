@@ -24,7 +24,7 @@
   ],
   "scripts": {
     "build": "node scripts/build-check.js",
-    "test": "node --test test/",
+    "test": "node scripts/run-tests.cjs",
     "demo": "node bin/mcpscan.js scan --root test/fixtures/home --platform linux --project test/fixtures/project -t test/fixtures/tools-poisoned.json --policy mcpscan.policy.json"
   },
   "keywords": [
@@ -50,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/fpavia111-creator/argus/issues"
   },
-  "mcpName": "io.github.fpavia111-creator/mcpscan"
+  "mcpName": "io.github.fpavia111-creator/argus"
 }
