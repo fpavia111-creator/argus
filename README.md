@@ -20,13 +20,13 @@ npm install -g @kurtfrancisco/argus   # or: npx @kurtfrancisco/argus scan
 **Claude Code**
 
 ```bash
-claude mcp add argus -- npx -y @kurtfrancisco/argus@0.2.0 mcp
+claude mcp add argus -- npx -y @kurtfrancisco/argus@0.2.1 mcp
 ```
 
 **Cursor** — add to `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` (project). The same snippet works for Claude Desktop, VS Code and Windsurf:
 
 ```json
-{ "mcpServers": { "argus": { "command": "npx", "args": ["-y", "@kurtfrancisco/argus@0.2.0", "mcp"] } } }
+{ "mcpServers": { "argus": { "command": "npx", "args": ["-y", "@kurtfrancisco/argus@0.2.1", "mcp"] } } }
 ```
 
 Restart the client and the tools appear. Full details below.

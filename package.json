@@ -1,6 +1,6 @@
 {
   "name": "@kurtfrancisco/argus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Argus of MCP (formerly mcpscan): Supply-chain security scanner for MCP servers and agent skills (Claude, Cursor, VS Code, Windsurf).",
   "license": "MIT",
   "author": "Kurt Francisco <Fpavia111@gmail.com>",
