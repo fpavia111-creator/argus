@@ -197,3 +197,8 @@ MIT © 2026 Kurt Francisco. See [LICENSE](LICENSE).
 ## Contributing
 
 Issues and pull requests are welcome at https://github.com/fpavia111-creator/argus. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
+---
+
+Need an AI agent built for your business instead of tools to build your own? See [G6daddy](https://g6daddy.com/): AI agents for any industry.
